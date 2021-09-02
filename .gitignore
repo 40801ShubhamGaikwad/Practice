@@ -1,0 +1,6 @@
+*.jar
+*Unwantedfile1.java
+*Unwantedfile2.java
+*garbage.java
+/bin/
+testdata.xls
