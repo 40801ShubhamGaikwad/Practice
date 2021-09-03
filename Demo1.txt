@@ -12,3 +12,6 @@ Branching
 Additional changes
 
 3 way merging
+
+Done 3 way merging
+
