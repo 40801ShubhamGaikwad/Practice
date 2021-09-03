@@ -1,11 +1,16 @@
+
 Date 03-09-2021
 Place Bhokardan
+
+Name: Shubham Gaikwad
+
 
 Getting Started...
 
 Changes Done
 
 Diff function
+
 
 Branching
 
@@ -14,5 +19,4 @@ Additional changes
 3 way merging
 
 Done 3 way merging
-
---------------------------------------------
+Done Rebasing
