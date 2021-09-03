@@ -10,3 +10,5 @@ Diff function
 Branching
 
 Additional changes
+
+3 way merging
